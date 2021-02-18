@@ -1,0 +1,26 @@
+h4 {
+    color: rgb(14, 14, 185);
+    font-size: 19px;
+    margin-left: 50px;
+    font-style: oblique;
+  }
+  h1 {
+    color: rgb(124, 9, 9);
+    text-align: center;
+    background-color: cyan;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  p {
+    color: rgb(8, 114, 26);
+    font-style: oblique;
+    margin: 30px;
+    font-size: 17px;
+    line-height: 1.8;
+  }
+  body {
+    background-color: rgb(236, 212, 182);
+  }
+  .bold {
+    font-weight: bold;
+    color: rgb(115, 19, 204);
+  }
